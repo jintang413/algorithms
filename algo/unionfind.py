@@ -193,3 +193,4 @@ class WeightedQuickUnionPathCompressionUF:
 
     def count(self) -> int:
         return self._count
+
