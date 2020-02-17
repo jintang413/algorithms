@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c284043b-b405-4213-b803-9a6ed5f0055a" name="Default Changelist" comment="" />
+    <list default="true" id="c284043b-b405-4213-b803-9a6ed5f0055a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo/unionfind.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo/unionfind.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -45,5 +49,11 @@
       <updated>1581876020393</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="156" key="SettingsEditor" timestamp="1581901298609">
+      <screen x="0" y="23" width="1920" height="1003" />
+    </state>
+    <state x="310" y="156" key="SettingsEditor/0.23.1920.1003@0.23.1920.1003" timestamp="1581901298609" />
   </component>
 </project>
